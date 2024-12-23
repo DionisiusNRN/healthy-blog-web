@@ -1,3 +1,5 @@
+// ngambil yang paling penting dari video ig
+
 export default function Education() {
   return (
     <>

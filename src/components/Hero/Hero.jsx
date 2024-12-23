@@ -1,4 +1,4 @@
-// foto profil, about, skill
+// foto profil, about, perkenalan
 import { useNavigate } from "react-router-dom";
 
 export default function Hero() {
